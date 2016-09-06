@@ -1,2 +1,2 @@
 textedit.app
-add memopad
+add m
